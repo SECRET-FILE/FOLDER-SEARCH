@@ -1,5 +1,3 @@
-# FOLDER-SEARCH
-WEB SEARCH FILE
 <!DOCTYPE html>
 <html lang="en">
 <head>
