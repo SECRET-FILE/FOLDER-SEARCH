@@ -28,12 +28,12 @@
 </head>
 <body>
     <div class="container">
-        <img src="jpg" class="mask">
+        <img src="file:///C:/Users/Lenovo/Desktop/website.1/PRANK%20FOLDER/jpg" class="mask">
         <div>
             <div id="hackText">Initializing secret hack...</div>
             <div id="binary" class="binary"></div>
         </div>
-        <img src="jpg" class="mask">
+        <img src="file:///C:/Users/Lenovo/Desktop/website.1/PRANK%20FOLDER/jpg" class="mask">
     </div>
 
     <script>
