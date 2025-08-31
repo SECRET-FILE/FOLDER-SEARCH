@@ -28,12 +28,14 @@
 </head>
 <body>
     <div class="container">
-        <img src="jpg" class="mask">
+        <img src="![images (1)](https://github.com/user-attachments/assets/744088bc-8284-4de4-9d8a-65bcdac5673e)
+" class="mask">
         <div>
             <div id="hackText">Initializing secret hack...</div>
             <div id="binary" class="binary"></div>
         </div>
-        <img src="" class="mask">
+        <img src="![images (1)](https://github.com/user-attachments/assets/8255e749-f29d-4369-b2b6-b1dc0e2ee960)
+" class="mask">
     </div>
 
     <script>
