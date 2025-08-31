@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hacker Prank</title>
+    <title>Hacker hack</title>
     <style>
         body {
             background-color: black;
