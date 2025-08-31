@@ -28,12 +28,12 @@
 </head>
 <body>
     <div class="container">
-        <img src="jpg" class="mask">
+        <img src="" class="mask">
         <div>
             <div id="hackText">Initializing secret hack...</div>
             <div id="binary" class="binary"></div>
         </div>
-        <img src="jpg" class="mask">
+        <img src="" class="mask">
     </div>
 
     <script>
