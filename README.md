@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hacker hack</title>
+    <title>Hacker hacking</title>
     <style>
         body {
             background-color: black;
@@ -28,14 +29,12 @@
 </head>
 <body>
     <div class="container">
-        <img src="![images (1)](https://github.com/user-attachments/assets/744088bc-8284-4de4-9d8a-65bcdac5673e)
-" class="mask">
+        <img src="jpg" class="mask">
         <div>
             <div id="hackText">Initializing secret hack...</div>
             <div id="binary" class="binary"></div>
         </div>
-        <img src="![images (1)](https://github.com/user-attachments/assets/8255e749-f29d-4369-b2b6-b1dc0e2ee960)
-" class="mask">
+        <img src="jpg" class="mask">
     </div>
 
     <script>
@@ -74,4 +73,3 @@
     </script>
 </body>
 </html>
-
