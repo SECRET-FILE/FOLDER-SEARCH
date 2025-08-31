@@ -1,4 +1,4 @@
-[prankv2.html](https://github.com/user-attachments/files/22061884/prankv2.html)[U<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,7 +28,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="" class="mask">
+        <img src="jpg" class="mask">
         <div>
             <div id="hackText">Initializing secret hack...</div>
             <div id="binary" class="binary"></div>
@@ -72,4 +72,4 @@
     </script>
 </body>
 </html>
-ploading prankv2.html…]()
+
